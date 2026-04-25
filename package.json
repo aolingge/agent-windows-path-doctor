@@ -19,7 +19,8 @@
     "README.zh-CN.md",
     "LICENSE",
     "SECURITY.md",
-    "CONTRIBUTING.md"
+    "CONTRIBUTING.md",
+    "CODE_OF_CONDUCT.md"
   ],
   "keywords": [
     "windows",
@@ -39,3 +40,4 @@
   },
   "homepage": "https://github.com/aolingge/agent-windows-path-doctor"
 }
+
