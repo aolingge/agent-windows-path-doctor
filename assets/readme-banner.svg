@@ -1,0 +1,26 @@
+<svg width="1280" height="520" viewBox="0 0 1280 520" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1280" height="520" fill="#080B12"/>
+  <path d="M0 106h1280M0 206h1280M0 306h1280M0 406h1280M160 0v520M320 0v520M480 0v520M640 0v520M800 0v520M960 0v520M1120 0v520" stroke="#94A3B8" stroke-opacity=".08"/>
+  <rect x="72" y="76" width="1136" height="368" rx="28" fill="#0B1220" stroke="#263244"/>
+  <rect x="96" y="100" width="1088" height="320" rx="22" fill="#0F172A" stroke="#1E293B"/>
+  <rect x="128" y="132" width="188" height="188" rx="36" fill="#111827" stroke="#334155"/>
+  <path d="M178 226h86M178 186h128M178 266h58" stroke="#67E8F9" stroke-width="9" stroke-linecap="round"/>
+  <text x="356" y="166" fill="#F8FAFC" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="48" font-weight="850">Agent Windows Path Doctor</text>
+  <text x="356" y="206" fill="#94A3B8" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="20">Check AI-agent task files for Windows path, WSL path, quoting, and cross-platform </text>
+  <rect x="356" y="244" width="122" height="36" rx="18" fill="#67E8F9"/>
+  <text x="382" y="268" fill="#020617" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="15" font-weight="850">v0.1.0</text>
+  <rect x="492" y="244" width="118" height="36" rx="18" fill="#1E293B" stroke="#334155"/>
+  <text x="518" y="268" fill="#E2E8F0" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="15" font-weight="760">zero deps</text>
+  <rect x="624" y="244" width="108" height="36" rx="18" fill="#1E293B" stroke="#334155"/>
+  <text x="649" y="268" fill="#E2E8F0" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="15" font-weight="760">CI ready</text>
+  <g transform="translate(780 134)">
+    <rect width="360" height="214" rx="20" fill="#020617" stroke="#334155"/>
+    <rect width="360" height="44" rx="20" fill="#111827"/>
+    <circle cx="26" cy="22" r="6" fill="#F87171"/><circle cx="48" cy="22" r="6" fill="#FBBF24"/><circle cx="70" cy="22" r="6" fill="#34D399"/>
+    <text x="24" y="78" fill="#67E8F9" font-family="JetBrains Mono,Consolas,monospace" font-size="15" font-weight="700">$ agent-windows-path-doctor</text>
+    <text x="24" y="118" fill="#34D399" font-family="JetBrains Mono,Consolas,monospace" font-size="15" font-weight="700">PASS</text><text x="92" y="118" fill="#E5E7EB" font-family="JetBrains Mono,Consolas,monospace" font-size="15">Mentions Windows or WSL pat</text>
+    <text x="24" y="152" fill="#34D399" font-family="JetBrains Mono,Consolas,monospace" font-size="15" font-weight="700">PASS</text><text x="92" y="152" fill="#E5E7EB" font-family="JetBrains Mono,Consolas,monospace" font-size="15">Uses quotes around paths wi</text>
+    <text x="24" y="186" fill="#FBBF24" font-family="JetBrains Mono,Consolas,monospace" font-size="15" font-weight="700">NOTE</text><text x="92" y="186" fill="#CBD5E1" font-family="JetBrains Mono,Consolas,monospace" font-size="15">CI-friendly output</text>
+  </g>
+  <text x="356" y="360" fill="#CBD5E1" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="17">AI-ready checks · mirrored release · bilingual docs</text>
+</svg>

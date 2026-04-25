@@ -1,0 +1,1 @@
+Use PowerShell on Windows. Path: "E:\\codemain\\github\\repo". WSL path: /mnt/e/codemain/github/repo. This command is cross-platform aware.

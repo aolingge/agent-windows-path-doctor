@@ -1,0 +1,41 @@
+{
+  "name": "agent-windows-path-doctor",
+  "version": "0.1.0",
+  "description": "Check AI-agent task files for Windows path, WSL path, quoting, and cross-platform command risks.",
+  "type": "module",
+  "bin": {
+    "agent-windows-path-doctor": "./src/cli.js"
+  },
+  "scripts": {
+    "test": "node --test",
+    "check": "node src/cli.js --path fixtures/good.txt --min-score 75"
+  },
+  "files": [
+    "src",
+    "fixtures",
+    "docs",
+    "examples",
+    "README.md",
+    "README.zh-CN.md",
+    "LICENSE",
+    "SECURITY.md",
+    "CONTRIBUTING.md"
+  ],
+  "keywords": [
+    "windows",
+    "wsl",
+    "ai-agent",
+    "paths",
+    "developer-tools"
+  ],
+  "author": "Aolingge",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aolingge/agent-windows-path-doctor.git"
+  },
+  "bugs": {
+    "url": "https://github.com/aolingge/agent-windows-path-doctor/issues"
+  },
+  "homepage": "https://github.com/aolingge/agent-windows-path-doctor"
+}
